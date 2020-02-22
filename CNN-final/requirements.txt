@@ -1,8 +1,8 @@
 numpy
 pandas
 sklearn
+keras==2.1.5
 tensorflow
-keras
 ipykernel
 matplotlib
 opencv-python
