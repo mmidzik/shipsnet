@@ -1,0 +1,1 @@
+# Shipsnet - a simple CNN for ship detection
